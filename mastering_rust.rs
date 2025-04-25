@@ -68,4 +68,3 @@ mod simpson_module {
         println!("Bart is not public");
     }
 }
-
